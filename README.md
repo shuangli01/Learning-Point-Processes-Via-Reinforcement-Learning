@@ -1,5 +1,6 @@
 # Learning-Point-Processes-Via-Reinforcement-Learning
 Code of paper "Learning Temporal Point Processes Via Reinforcement Learning", NeurIPS 2018.
+We also provide the code for the Spatio-Temporal Point Processes extension. 
 
 (1) ppgen.py -- generate synthetic temporal point process data as input data for the demo
 
